@@ -6,26 +6,6 @@ It was built strictly to satisfy all requirements and bonus objectives of the Mo
 
 ---
 
-## 📸 App Screenshots
-
-<table>
-  <tr>
-    <td><img src="screenshots/1.png" width="250" /></td>
-    <td><img src="screenshots/2.png" width="250" /></td>
-    <td><img src="screenshots/3.png" width="250" /></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/4.png" width="250" /></td>
-    <td><img src="screenshots/5.png" width="250" /></td>
-    <td><img src="screenshots/6.png" width="250" /></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/7.png" width="250" /></td>
-  </tr>
-</table>
-
----
-
 ## 🌟 Features & Assignment Checklist
 
 ### Basic Requirements (100% Complete)
@@ -103,3 +83,23 @@ The mobile app communicates with the backend server over your local network.
 - **Database**: MongoDB (Mongoose)
 - **Authentication**: Firebase Auth
 - **UI & Icons**: Vanilla StyleSheet, react-native-vector-icons, react-native-date-picker
+
+---
+
+## 📸 App Screenshots
+
+<table>
+  <tr>
+    <td><img src="screenshots/1.png" width="250" /></td>
+    <td><img src="screenshots/2.png" width="250" /></td>
+    <td><img src="screenshots/3.png" width="250" /></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/4.png" width="250" /></td>
+    <td><img src="screenshots/5.png" width="250" /></td>
+    <td><img src="screenshots/6.png" width="250" /></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/7.png" width="250" /></td>
+  </tr>
+</table>
