@@ -1,0 +1,9 @@
+# Node
+node_modules/
+.env
+
+# Android/iOS builds are handled by TodoApp/.gitignore, but let's be safe
+TodoApp/android/app/build/
+TodoApp/android/.gradle/
+TodoApp/android/build/
+TodoApp/node_modules/
